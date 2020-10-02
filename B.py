@@ -1,1 +1,1 @@
-Hllo akllo alala 
+print("hello ")
